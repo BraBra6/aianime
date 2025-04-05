@@ -1,0 +1,10 @@
+
+#### `.gitignore`
+```bash
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.csv
+*.ipynb_checkpoints
